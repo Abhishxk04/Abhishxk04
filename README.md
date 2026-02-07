@@ -40,7 +40,7 @@ I regularly practice Data Structures & Algorithms on **LeetCode**, and my soluti
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/abhishek-bhardwaj  
+- LinkedIn: www.linkedin.com/in/abhishek-bhardwaj-589b37251 
 - GitHub: https://github.com/Abhishxk04  
 
 ---
