@@ -5,7 +5,7 @@ I am a Computer Science undergraduate and a Data Science trainee currently build
 ---
 
 ## 🔍 What I’m Currently Working On
-- Data Engineering & Automation (Fellowship at Lable Nest)
+- Data Engineering & Automation (Fellowship at LabelNest)
 - Python backend development (FastAPI basics)
 - Strengthening Data Structures & Algorithms through LeetCode
 - Exploring Machine Learning and MLOps concepts step by step
@@ -29,8 +29,7 @@ I am a Computer Science undergraduate and a Data Science trainee currently build
 - **Logistic Regression from Scratch**  
   Implemented logistic regression and gradient descent manually using NumPy to understand core ML concepts.
 
-- **Automation & Experimentation Projects**  
-  Built multiple small scripts focused on automation, data handling, and experimentation.
+
 
 ---
 
